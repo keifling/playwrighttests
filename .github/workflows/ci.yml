@@ -22,13 +22,13 @@ jobs:
         dotnet-version: '8.0.x'
 
     - name: Install dependencies
-      run: dotnet restore
+      run: dotnet restore 
 
     - name: Build the project
       run: dotnet build --configuration Release
 
     - name: Install Playwright Browsers
-      run: pwsh bin/Release/net8.0/playwright.ps1 install
+      run: pwsh playwright.ps1 install
 
     - name: Run Playwright tests
       run: dotnet test --configuration Release --no-build --verbosity normal
