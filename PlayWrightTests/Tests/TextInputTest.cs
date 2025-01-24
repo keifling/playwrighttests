@@ -17,7 +17,7 @@ namespace PlayWrightTests.Tests
         {
             // Initialize Playwright
             using var playwright = await Playwright.CreateAsync();
-            var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions { Headless = false });
+            var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions { Headless = true });
             var page = await browser.NewPageAsync();
 
             // Create an instance of the page class
