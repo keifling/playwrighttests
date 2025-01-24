@@ -1,12 +1,12 @@
 ﻿using Microsoft.Playwright.MSTest;
-using PlayWrightTests2.PageObjects;
+using PlayWrightTests.PageObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlayWrightTests2.Tests
+namespace PlayWrightTests.Tests
 {
     [TestClass]
     public class LoginTests : PageTest

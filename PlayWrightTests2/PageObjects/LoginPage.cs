@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlayWrightTests2.PageObjects
+namespace PlayWrightTests.PageObjects
 {
     public class LoginPage
     {

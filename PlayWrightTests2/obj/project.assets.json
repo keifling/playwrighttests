@@ -1745,9 +1745,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\PlayWrightTests2\\PlayWrightTests2\\PlayWrightTests2.csproj",
-      "projectName": "PlayWrightTests2",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\PlayWrightTests2\\PlayWrightTests2\\PlayWrightTests2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\PlayWrightTests2\\PlayWrightTests2\\PlayWrightTests.csproj",
+      "projectName": "PlayWrightTests",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\PlayWrightTests2\\PlayWrightTests2\\PlayWrightTests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\source\\repos\\PlayWrightTests2\\PlayWrightTests2\\obj\\",
       "projectStyle": "PackageReference",

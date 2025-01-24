@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 using Microsoft.Playwright;
 using Microsoft.Playwright.MSTest;
 
-namespace PlayWrightTests2.Tests
+namespace PlayWrightTests.Tests
 {
     [TestClass]
     public class ExampleTest : PageTest
